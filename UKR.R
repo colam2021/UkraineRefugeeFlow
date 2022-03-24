@@ -29,7 +29,7 @@ ui = shinyUI(fluidPage(
   h3("Latest Ukraine Refugee Situation", style="text-align:left"),
   h4("Over 1.5 million people have fled the war in Ukraine since Feb 24"),
   
-  h5("Source: UNHCR Operational Portal March 5th, 2022", style="text-align:left"),
+  h5("Source: UNHCR Operational Portal March 22nd, 2022", style="text-align:left"),
   
   sankeyNetworkOutput('sankey')
   
